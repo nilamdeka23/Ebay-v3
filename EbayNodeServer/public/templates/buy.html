@@ -1,0 +1,148 @@
+<div class="container" ng-controller="buyCtrl">
+	<div class="col-xs-2 col-md-2"></div>
+
+	<div class="col-xs-8 col-md-8">
+
+		<div class="panel panel-info">
+
+			<div class="panel-heading">
+				<div class="panel-title">
+					<h4>
+						<span class="glyphicon glyphicon-barcode">&nbsp;</span>Products
+						Listing
+					</h4>
+				</div>
+			</div>
+
+			<div class="alert alert-success text-center" role="alert"
+				ng-hide="bidPlaced"
+				style="margin-top: 10px; margin-left: 10px; margin-right: 10px">
+				Well done! You successfully placed bid for the Product: [<strong><em>{{addedProduct.name}}
+						{{addedProduct.description}}</em></strong> for bid amount: <strong><em>${{addedProduct.bidAmount}}</em></strong>]
+				. You can take a look at your standing in the bid standings section.
+			</div>
+
+			<div class="alert alert-danger text-center" role="alert"
+				ng-hide="bidNotPlaced"
+				style="margin-top: 10px; margin-left: 10px; margin-right: 10px">Oh
+				snap! Try placing your bid again. We regret the inconvenience.</div>
+
+			<div class="alert alert-success text-center" role="alert"
+				ng-hide="successMsg"
+				style="margin-top: 10px; margin-left: 10px; margin-right: 10px">
+				Well done! Product <strong>[<em>{{addedProduct.name}}
+						{{addedProduct.description}} of ${{addedProduct.price}}</em>]
+				</strong> successfully added to your cart.
+			</div>
+
+			<div class="alert alert-danger text-center" role="alert"
+				ng-hide="failureMsg"
+				style="margin-top: 10px; margin-left: 10px; margin-right: 10px">Oh
+				snap! Try adding the product again. We regret the inconvenience.</div>
+
+			<div class="alert alert-info text-center" role="alert"
+				ng-hide="loadFailMsg"
+				style="margin-top: 10px; margin-left: 10px; margin-right: 10px">Sorry!
+				Please refresh the page to view the advertisements.</div>
+
+			<div class="panel-body" style="background: #FDFDFD">
+
+				<div class="row" ng-repeat="product in products"
+					style="border: 2px solid #CDE7F5; margin: 5px">
+
+					<div ng-if="!product.isBiddable">
+
+						<div class="col-xs-2 col-md-2">
+							<img
+								style="width: 100px; height: 100px; margin-top: 4px; margin-bottom: 4px; overflow: hidden"
+								src="../assets/ebay-square-logo.png" class="img-rounded">
+						</div>
+
+						<div class="col-xs-6 col-md-6">
+							<h4 class="product-name">
+								<strong>{{product.name}}</strong>
+							</h4>
+							<h4>
+								<small>{{product.description}}</small>
+							</h4>
+							<h4>
+								<small><em>{{product.sellerInfo}}</em></small>
+							</h4>
+						</div>
+						<div class="col-xs-3 col-md-3">
+							<h5>
+								Price: ${{product.price}}<strong></strong>
+							</h5>
+							<h5>
+								Quantity: {{product.qty}}<strong></strong>
+							</h5>
+							<button type="button" class="btn btn-primary btn-block"
+								ng-click="addToCart(product)" ng-disabled="!{{product.qty}}">
+								<span class="glyphicon glyphicon-plus-sign">&nbsp;</span>Add to
+								Cart
+							</button>
+						</div>
+						<div class="col-xs-1 col-md-1">
+							<img src="../assets/sold-out.png" ng-hide="{{product.qty}}">
+						</div>
+
+					</div>
+
+					<div ng-if="product.isBiddable">
+
+						<div class="col-xs-2 col-md-2">
+							<img
+								style="width: 100px; height: 100px; margin-top: 4px; margin-bottom: 4px; overflow: hidden"
+								src="../assets/ebay-square-logo.png" class="img-rounded">
+						</div>
+
+						<div class="col-xs-6 col-md-6">
+							<h4 class="product-name">
+								<strong>{{product.name}}</strong>
+							</h4>
+							<h4>
+								<small>{{product.description}}</small>
+							</h4>
+							<h4>
+								<small><em>{{product.sellerInfo}}</em></small>
+							</h4>
+						</div>
+
+						<div class="col-xs-3 col-md-3">
+							<form ng-submit="placeBid(product, bidAmount)">
+								<h5 style="margin-top: 5px">
+									Bidding Starts: ${{product.price}}<strong></strong>
+								</h5>
+								<div class="input-group" style="margin-top: 5px">
+									<span class="input-group-addon">$</span> <input id="bidAmount"
+										name="bidAmount" class="form-control" required type="number"
+										step="0.01" ng-model="bidAmount" min="{{product.price}}"
+										required placeholder="Enter bid"
+										ng-disabled="!isValidForBidding(product.creationTime)">
+								</div>
+								<button class="form-group btn btn-success btn-block"
+									type="submit" style="margin-top: 5px; margin-bottom: 5px"
+									ng-disabled="!isValidForBidding(product.creationTime)">
+									<span class="glyphicon glyphicon-star">&nbsp;</span>Place Your
+									Bid
+								</button>
+							</form>
+						</div>
+						<div class="col-xs-1 col-md-1">
+							<img src="../assets/bid-over.png"
+								ng-hide="isValidForBidding(product.creationTime)">
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="col-xs-4 col-md-4"></div>
+
+</div>

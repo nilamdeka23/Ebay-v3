@@ -1,0 +1,597 @@
+{"level":"info","message":"USER with EMAIL: tom@gmail.com tries SIGNING IN","timestamp":"2016-10-16T23:05:42.629Z"}
+{"level":"info","message":"USER with EMAIL: tom@gmail.com and USER ID: 10 SIGNED IN SUCCESSFULLY","timestamp":"2016-10-16T23:05:42.634Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:05:43.047Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:05:43.049Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:05:43.223Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:06:29.957Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:06:29.958Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:06:30.094Z"}
+{"level":"info","message":"USER ID: 10 VIEWED SALES HISTORY","timestamp":"2016-10-16T23:06:32.990Z"}
+{"level":"info","message":"USER ID: 10 VIEWED SALES HISTORY","timestamp":"2016-10-16T23:06:32.991Z"}
+{"level":"info","message":"USER ID: 10 VIEWED PURCHASE HISTORY","timestamp":"2016-10-16T23:06:33.872Z"}
+{"level":"info","message":"USER ID: 10 VIEWED PURCHASE HISTORY","timestamp":"2016-10-16T23:06:33.873Z"}
+{"level":"info","message":"USER ID: 10 VIEWED CART ITEMS","timestamp":"2016-10-16T23:06:34.405Z"}
+{"level":"info","message":"USER ID: 10 VIEWED CART ITEMS","timestamp":"2016-10-16T23:06:34.406Z"}
+{"level":"info","message":"USER ID: 10 tried UPDATING an ITEM  with PRODUCT ID: 1 from the CART","timestamp":"2016-10-16T23:06:38.157Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:06:40.843Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:06:40.844Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:06:40.998Z"}
+{"level":"info","message":"USER ID: undefined LISTED PRODUCT for SALE of PRODUCT NAME: Horse","timestamp":"2016-10-16T23:39:55.457Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-10-16T23:40:05.662Z"}
+{"level":"info","message":"USER with EMAIL: tom@gmail.com tries SIGNING IN","timestamp":"2016-10-16T23:40:18.804Z"}
+{"level":"info","message":"USER with EMAIL: tom@gmail.com and USER ID: 10 SIGNED IN SUCCESSFULLY","timestamp":"2016-10-16T23:40:18.808Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:40:19.212Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:40:19.214Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:40:19.368Z"}
+{"level":"info","message":"USER ID: 10 LISTED PRODUCT for SALE of PRODUCT NAME: Horse","timestamp":"2016-10-16T23:40:37.193Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-10-16T23:41:11.074Z"}
+{"level":"info","message":"USER with EMAIL: v@k.com tries SIGNING IN","timestamp":"2016-10-16T23:41:18.551Z"}
+{"level":"info","message":"USER with EMAIL: v@k.com and USER ID: 12 SIGNED IN SUCCESSFULLY","timestamp":"2016-10-16T23:41:18.554Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:41:21.055Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:41:21.056Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-10-16T23:42:25.775Z"}
+{"level":"info","message":"USER with EMAIL: bid@b.com tries SIGNING UP","timestamp":"2016-10-16T23:43:30.022Z"}
+{"level":"info","message":"USER with EMAIL: bid@b.com and USER ID: 13 SIGNED UP SUCCESSFULLY","timestamp":"2016-10-16T23:43:30.091Z"}
+{"level":"info","message":"USER ID: 13 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:43:30.503Z"}
+{"level":"info","message":"USER ID: 13 BROWSED PRODUCTS PAGE","timestamp":"2016-10-16T23:43:30.504Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T00:52:42.656Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T00:52:42.658Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-10-17T00:53:21.276Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T00:54:42.663Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T00:54:42.665Z"}
+{"level":"info","message":"USER with EMAIL: tom@gmail.com tries SIGNING IN","timestamp":"2016-10-17T00:55:09.648Z"}
+{"level":"info","message":"USER with EMAIL: tom@gmail.com and USER ID: 10 SIGNED IN SUCCESSFULLY","timestamp":"2016-10-17T00:55:09.654Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T00:55:10.185Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T00:55:10.235Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T00:56:42.670Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T00:56:42.671Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T00:58:42.676Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T00:58:42.677Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:00:42.685Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:00:42.687Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-10-17T01:01:53.288Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:02:42.692Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:02:42.702Z"}
+{"level":"info","message":"USER with EMAIL: joy@gmail.com tries SIGNING UP","timestamp":"2016-10-17T01:03:22.942Z"}
+{"level":"info","message":"USER with EMAIL: joy@gmail.com and USER ID: 14 SIGNED UP SUCCESSFULLY","timestamp":"2016-10-17T01:03:23.004Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:03:23.264Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:03:23.275Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:04:42.698Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:04:42.705Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:06:42.705Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:06:42.710Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-10-17T01:06:52.004Z"}
+{"level":"info","message":"USER with EMAIL: joy@gmail.com tries SIGNING IN","timestamp":"2016-10-17T01:07:05.058Z"}
+{"level":"info","message":"USER with EMAIL: joy@gmail.com and USER ID: 14 SIGNED IN SUCCESSFULLY","timestamp":"2016-10-17T01:07:05.064Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:07:05.290Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:07:05.297Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:08:42.713Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:08:42.716Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:10:42.720Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:10:42.721Z"}
+{"level":"info","message":"USER ID: 14 VIEWED PROFILE PAGE","timestamp":"2016-10-17T01:11:24.796Z"}
+{"level":"info","message":"USER ID: 14 VIEWED PROFILE PAGE","timestamp":"2016-10-17T01:11:24.820Z"}
+{"level":"info","message":"USER ID: 14 tried UPDATING PRFOILE PAGE","timestamp":"2016-10-17T01:13:54.331Z"}
+{"level":"info","message":"USER ID: 14 LISTED PRODUCT for SALE of PRODUCT NAME: Hair Dryer","timestamp":"2016-10-17T01:18:48.416Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:19:03.925Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:19:03.933Z"}
+{"level":"info","message":"USER ID: 14 LISTED PRODUCT for SALE of PRODUCT NAME: Pen","timestamp":"2016-10-17T01:19:28.760Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:20:45.274Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:20:45.283Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-10-17T01:20:46.595Z"}
+{"level":"info","message":"USER with EMAIL: joy@gmail.com tries SIGNING IN","timestamp":"2016-10-17T01:20:53.422Z"}
+{"level":"info","message":"USER with EMAIL: joy@gmail.com and USER ID: 14 SIGNED IN SUCCESSFULLY","timestamp":"2016-10-17T01:20:53.426Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:20:53.661Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:20:53.668Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-10-17T01:22:38.088Z"}
+{"level":"info","message":"USER with EMAIL: joy@gmail.com tries SIGNING IN","timestamp":"2016-10-17T01:25:12.173Z"}
+{"level":"info","message":"USER with EMAIL: joy@gmail.com and USER ID: 14 SIGNED IN SUCCESSFULLY","timestamp":"2016-10-17T01:25:12.177Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:25:12.396Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:25:12.405Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-10-17T01:29:35.108Z"}
+{"level":"info","message":"USER with EMAIL: v@k.com tries SIGNING IN","timestamp":"2016-10-17T01:29:41.145Z"}
+{"level":"info","message":"USER with EMAIL: v@k.com and USER ID: 12 SIGNED IN SUCCESSFULLY","timestamp":"2016-10-17T01:29:41.149Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:29:41.353Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:29:41.362Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:37:18.895Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:37:18.940Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:37:21.836Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:37:21.845Z"}
+{"level":"info","message":"USER ID: 12  ADDED ITEM with PRODUCT ID: 15 to the CART","timestamp":"2016-10-17T01:37:26.187Z"}
+{"level":"info","message":"USER ID: 12  ADDED ITEM with PRODUCT ID: 14 to the CART","timestamp":"2016-10-17T01:37:28.994Z"}
+{"level":"info","message":"USER ID: 12  ADDED ITEM with PRODUCT ID: 1 to the CART","timestamp":"2016-10-17T01:37:40.884Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:38:59.865Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:38:59.872Z"}
+{"level":"info","message":"USER ID: 12 tried UPDATING an ITEM  with PRODUCT ID: 14 from the CART","timestamp":"2016-10-17T01:39:10.630Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:39:17.793Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:39:17.800Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:41:25.477Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:41:25.488Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T01:44:17.059Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:51:02.958Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:51:02.965Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:51:06.750Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:51:06.759Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:51:10.191Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:51:10.199Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:51:30.039Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:51:30.046Z"}
+{"level":"info","message":"USER ID: 12 VIEWED PURCHASE HISTORY","timestamp":"2016-10-17T01:52:17.965Z"}
+{"level":"info","message":"USER ID: 12 VIEWED PURCHASE HISTORY","timestamp":"2016-10-17T01:52:17.972Z"}
+{"level":"info","message":"USER ID: 12 VIEWED SALES HISTORY","timestamp":"2016-10-17T01:52:20.668Z"}
+{"level":"info","message":"USER ID: 12 VIEWED SALES HISTORY","timestamp":"2016-10-17T01:52:20.690Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:52:25.836Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:52:25.844Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:52:29.982Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:52:29.989Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:52:32.698Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:52:32.706Z"}
+{"level":"info","message":"USER ID: undefined VIEWED CART ITEMS","timestamp":"2016-10-17T01:52:46.650Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:52:48.620Z"}
+{"level":"info","message":"USER ID: undefined BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:52:48.621Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:53:13.589Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:53:13.598Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:53:15.252Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:53:15.259Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T01:53:59.435Z"}
+{"level":"info","message":"USER ID: 12  PLACED an ORDER","timestamp":"2016-10-17T01:53:59.440Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:53:59.685Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:53:59.693Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:58:59.398Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T01:58:59.406Z"}
+{"level":"info","message":"USER ID: 12  ADDED ITEM with PRODUCT ID: 1 to the CART","timestamp":"2016-10-17T01:59:04.996Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:59:08.187Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:59:08.195Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:59:11.618Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T01:59:11.625Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:01:21.697Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:01:21.706Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:01:40.602Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:01:47.782Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:01:52.042Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:01:52.050Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:01:55.669Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:01:55.675Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:01:58.313Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:01:58.319Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:02:10.375Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:03:28.627Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:03:28.634Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:36.255Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:37.623Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:37.791Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:37.946Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:38.101Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:38.258Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:38.401Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:38.546Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:39.073Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:39.217Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:39.375Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:39.529Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:40.430Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:40.596Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:40.752Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:50.506Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:50.817Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:50.986Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:51.596Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:51.802Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:52.192Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:03:52.376Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:05:03.108Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:05:03.114Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:05:10.696Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:06:14.407Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:06:14.417Z"}
+{"level":"info","message":"USER ID: 12 tried REMOVING an ITEM  with PRODUCT ID: 1 from the CART","timestamp":"2016-10-17T02:06:17.645Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:06:24.526Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:06:24.534Z"}
+{"level":"info","message":"USER ID: 12 VIEWED SALES HISTORY","timestamp":"2016-10-17T02:07:09.566Z"}
+{"level":"info","message":"USER ID: 12 VIEWED SALES HISTORY","timestamp":"2016-10-17T02:07:09.574Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:07:11.004Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:07:11.010Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:07:13.386Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:07:13.397Z"}
+{"level":"info","message":"USER ID: 12 VIEWED PROFILE PAGE","timestamp":"2016-10-17T02:07:17.880Z"}
+{"level":"info","message":"USER ID: 12 VIEWED PROFILE PAGE","timestamp":"2016-10-17T02:07:17.887Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-10-17T02:07:18.949Z"}
+{"level":"info","message":"USER with EMAIL: v@k.com tries SIGNING IN","timestamp":"2016-10-17T02:07:29.682Z"}
+{"level":"info","message":"USER with EMAIL: v@k.com and USER ID: 12 SIGNED IN SUCCESSFULLY","timestamp":"2016-10-17T02:07:29.685Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:07:29.911Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:07:29.918Z"}
+{"level":"info","message":"USER ID: 12  ADDED ITEM with PRODUCT ID: 15 to the CART","timestamp":"2016-10-17T02:07:33.735Z"}
+{"level":"info","message":"USER ID: 12  ADDED ITEM with PRODUCT ID: 15 to the CART","timestamp":"2016-10-17T02:07:40.432Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:07:42.317Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:07:42.325Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:07:56.709Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:07:56.715Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:08:15.956Z"}
+{"level":"info","message":"USER ID: 12  PLACED an ORDER","timestamp":"2016-10-17T02:08:15.961Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:08:16.185Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:08:16.192Z"}
+{"level":"info","message":"USER ID: 12 VIEWED PURCHASE HISTORY","timestamp":"2016-10-17T02:11:54.695Z"}
+{"level":"info","message":"USER ID: 12 VIEWED PURCHASE HISTORY","timestamp":"2016-10-17T02:11:54.702Z"}
+{"level":"info","message":"USER ID: 12 VIEWED SALES HISTORY","timestamp":"2016-10-17T02:12:41.847Z"}
+{"level":"info","message":"USER ID: 12 VIEWED SALES HISTORY","timestamp":"2016-10-17T02:12:41.854Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:14:03.430Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:14:03.439Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-10-17T02:14:04.835Z"}
+{"level":"info","message":"USER with EMAIL: joy@gmail.com tries SIGNING IN","timestamp":"2016-10-17T02:14:09.243Z"}
+{"level":"info","message":"USER with EMAIL: joy@gmail.com and USER ID: 14 SIGNED IN SUCCESSFULLY","timestamp":"2016-10-17T02:14:09.246Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:14:09.504Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:14:09.512Z"}
+{"level":"info","message":"USER ID: 14 VIEWED SALES HISTORY","timestamp":"2016-10-17T02:14:12.539Z"}
+{"level":"info","message":"USER ID: 14 VIEWED SALES HISTORY","timestamp":"2016-10-17T02:14:12.546Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:17:59.198Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:17:59.209Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-10-17T02:18:05.907Z"}
+{"level":"info","message":"USER with EMAIL: v@k.com tries SIGNING IN","timestamp":"2016-10-17T02:18:18.755Z"}
+{"level":"info","message":"USER with EMAIL: v@k.com and USER ID: 12 SIGNED IN SUCCESSFULLY","timestamp":"2016-10-17T02:18:18.759Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:18:18.968Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:18:18.974Z"}
+{"level":"info","message":"USER ID: 12  ADDED ITEM with PRODUCT ID: 11 to the CART","timestamp":"2016-10-17T02:20:58.820Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:21:00.559Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:21:00.569Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:21:02.210Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:21:02.216Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:21:13.310Z"}
+{"level":"info","message":"USER ID: 12 MAKES A PAYMENT","timestamp":"2016-10-17T02:21:23.745Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:29:20.940Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:29:20.950Z"}
+{"level":"info","message":"USER ID: 12 VIEWED PURCHASE HISTORY","timestamp":"2016-10-17T02:29:27.592Z"}
+{"level":"info","message":"USER ID: 12 VIEWED PURCHASE HISTORY","timestamp":"2016-10-17T02:29:27.598Z"}
+{"level":"info","message":"USER ID: 12 VIEWED SALES HISTORY","timestamp":"2016-10-17T02:29:30.683Z"}
+{"level":"info","message":"USER ID: 12 VIEWED SALES HISTORY","timestamp":"2016-10-17T02:29:30.689Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:29:31.450Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:29:31.457Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:29:32.985Z"}
+{"level":"info","message":"USER ID: 12 VIEWED CART ITEMS","timestamp":"2016-10-17T02:29:32.991Z"}
+{"level":"info","message":"USER ID: 12 VIEWED PROFILE PAGE","timestamp":"2016-10-17T02:29:34.819Z"}
+{"level":"info","message":"USER ID: 12 VIEWED PROFILE PAGE","timestamp":"2016-10-17T02:29:34.834Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:29:36.221Z"}
+{"level":"info","message":"USER ID: 12 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:29:36.230Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-10-17T02:50:22.065Z"}
+{"level":"info","message":"USER with EMAIL: tom@gmail.com tries SIGNING IN","timestamp":"2016-10-17T02:50:29.000Z"}
+{"level":"info","message":"USER with EMAIL: tom@gmail.com and USER ID: 10 SIGNED IN SUCCESSFULLY","timestamp":"2016-10-17T02:50:29.005Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:50:29.222Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:50:29.230Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:50:55.735Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:50:55.746Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:52:03.280Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T02:52:03.288Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:00:19.405Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:00:19.415Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:01:00.498Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:01:00.509Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:01:05.352Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:01:05.359Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:01:41.953Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:01:41.962Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:04:10.931Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:04:10.939Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:04:50.564Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:04:50.574Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:05:48.268Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:05:48.277Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:06:13.170Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:06:13.179Z"}
+{"level":"info","message":"USER ID: 10 LISTED PRODUCT for SALE of PRODUCT NAME: Watch","timestamp":"2016-10-17T03:06:49.267Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:06:51.021Z"}
+{"level":"info","message":"USER ID: 10 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:06:51.030Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-10-17T03:06:53.773Z"}
+{"level":"info","message":"USER with EMAIL: joy@gmail.com tries SIGNING IN","timestamp":"2016-10-17T03:07:06.011Z"}
+{"level":"info","message":"USER with EMAIL: joy@gmail.com and USER ID: 14 SIGNED IN SUCCESSFULLY","timestamp":"2016-10-17T03:07:06.015Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:07:06.311Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:07:06.319Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:07:28.122Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:07:28.130Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:08:06.133Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:08:06.141Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:11:22.352Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:11:22.362Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:12:44.818Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:12:44.831Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:14:20.602Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:14:20.615Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:28:06.590Z"}
+{"level":"info","message":"USER ID: 14 BROWSED PRODUCTS PAGE","timestamp":"2016-10-17T03:28:06.602Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-11-07T09:52:07.888Z"}
+{"level":"info","message":"USER with EMAIL: navya@gmail.com tries SIGNING UP","timestamp":"2016-11-07T09:53:05.031Z"}
+{"level":"info","message":"USER with EMAIL: navya@gmail.com and USER ID: 15 SIGNED UP SUCCESSFULLY","timestamp":"2016-11-07T09:53:05.638Z"}
+{"level":"info","message":"USER ID: 15 BROWSED PRODUCTS PAGE","timestamp":"2016-11-07T09:53:06.891Z"}
+{"level":"info","message":"USER ID: 15 BROWSED PRODUCTS PAGE","timestamp":"2016-11-07T09:53:06.895Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-08T22:04:26.543Z"}
+{"level":"info","message":"USER with EMAIL: nilamdeka@gmail.com tries SIGNING IN","timestamp":"2016-12-08T22:04:34.521Z"}
+{"level":"info","message":"USER with EMAIL: nilamdeka@gmail.com tries SIGNING IN","timestamp":"2016-12-08T22:04:42.733Z"}
+{"level":"info","message":"USER with EMAIL: nd@gmail.com tries SIGNING UP","timestamp":"2016-12-08T22:05:03.361Z"}
+{"level":"info","message":"USER with EMAIL: nd@gmail.com and USER ID: 16 SIGNED UP SUCCESSFULLY","timestamp":"2016-12-08T22:05:03.517Z"}
+{"level":"info","message":"USER ID: 16 BROWSED PRODUCTS PAGE","timestamp":"2016-12-08T22:05:04.596Z"}
+{"level":"info","message":"USER ID: 16 BROWSED PRODUCTS PAGE","timestamp":"2016-12-08T22:05:04.598Z"}
+{"level":"info","message":"USER ID: 16  ADDED ITEM with PRODUCT ID: 1 to the CART","timestamp":"2016-12-08T22:05:09.108Z"}
+{"level":"info","message":"USER ID: 16 VIEWED CART ITEMS","timestamp":"2016-12-08T22:05:10.645Z"}
+{"level":"info","message":"USER ID: 16 VIEWED CART ITEMS","timestamp":"2016-12-08T22:05:10.647Z"}
+{"level":"info","message":"USER ID: 16 tried UPDATING an ITEM  with PRODUCT ID: 1 from the CART","timestamp":"2016-12-08T22:05:15.823Z"}
+{"level":"info","message":"USER ID: 16 VIEWED CART ITEMS","timestamp":"2016-12-08T22:05:22.245Z"}
+{"level":"info","message":"USER ID: 16 VIEWED CART ITEMS","timestamp":"2016-12-08T22:05:22.247Z"}
+{"level":"info","message":"USER ID: 16 VIEWED PURCHASE HISTORY","timestamp":"2016-12-08T22:05:28.123Z"}
+{"level":"info","message":"USER ID: 16 VIEWED PURCHASE HISTORY","timestamp":"2016-12-08T22:05:28.124Z"}
+{"level":"info","message":"USER ID: 16 VIEWED SALES HISTORY","timestamp":"2016-12-08T22:05:29.661Z"}
+{"level":"info","message":"USER ID: 16 VIEWED SALES HISTORY","timestamp":"2016-12-08T22:05:29.662Z"}
+{"level":"info","message":"USER ID: 16 VIEWED CART ITEMS","timestamp":"2016-12-08T22:05:32.114Z"}
+{"level":"info","message":"USER ID: 16 VIEWED CART ITEMS","timestamp":"2016-12-08T22:05:32.115Z"}
+{"level":"info","message":"USER ID: 16 VIEWED CART ITEMS","timestamp":"2016-12-08T22:05:34.400Z"}
+{"level":"info","message":"USER ID: 16 VIEWED CART ITEMS","timestamp":"2016-12-08T22:05:34.403Z"}
+{"level":"info","message":"USER ID: 16 MAKES A PAYMENT","timestamp":"2016-12-08T22:05:44.762Z"}
+{"level":"info","message":"USER ID: 16  PLACED an ORDER","timestamp":"2016-12-08T22:05:44.803Z"}
+{"level":"info","message":"USER ID: 16 BROWSED PRODUCTS PAGE","timestamp":"2016-12-08T22:05:45.462Z"}
+{"level":"info","message":"USER ID: 16 BROWSED PRODUCTS PAGE","timestamp":"2016-12-08T22:05:45.464Z"}
+{"level":"info","message":"USER ID: 16 VIEWED PURCHASE HISTORY","timestamp":"2016-12-08T22:05:49.619Z"}
+{"level":"info","message":"USER ID: 16 VIEWED PURCHASE HISTORY","timestamp":"2016-12-08T22:05:49.621Z"}
+{"level":"info","message":"USER ID: 16 VIEWED PROFILE PAGE","timestamp":"2016-12-08T22:06:03.977Z"}
+{"level":"info","message":"USER ID: 16 VIEWED PROFILE PAGE","timestamp":"2016-12-08T22:06:03.979Z"}
+{"level":"info","message":"USER ID: 16 VIEWED PROFILE PAGE","timestamp":"2016-12-08T22:06:25.386Z"}
+{"level":"info","message":"USER ID: 16 VIEWED PROFILE PAGE","timestamp":"2016-12-08T22:06:25.387Z"}
+{"level":"info","message":"USER ID: 16 VIEWED PROFILE PAGE","timestamp":"2016-12-08T22:06:27.594Z"}
+{"level":"info","message":"USER ID: 16 VIEWED PROFILE PAGE","timestamp":"2016-12-08T22:06:27.596Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T00:49:38.667Z"}
+{"level":"info","message":"USER with EMAIL: h@l.com tries SIGNING UP","timestamp":"2016-12-09T00:50:00.289Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T00:50:42.220Z"}
+{"level":"info","message":"USER with EMAIL: h@l.com tries SIGNING UP","timestamp":"2016-12-09T00:50:52.556Z"}
+{"level":"info","message":"USER with EMAIL: h@l.com tries SIGNING UP","timestamp":"2016-12-09T00:52:11.275Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T00:53:53.956Z"}
+{"level":"info","message":"USER with EMAIL: h@l.com tries SIGNING UP","timestamp":"2016-12-09T00:54:04.387Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T01:02:01.318Z"}
+{"level":"info","message":"USER with EMAIL: jj@g.com tries SIGNING UP","timestamp":"2016-12-09T01:02:17.722Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T01:03:23.171Z"}
+{"level":"info","message":"USER with EMAIL: jj@k.com tries SIGNING UP","timestamp":"2016-12-09T01:03:41.642Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T01:10:33.831Z"}
+{"level":"info","message":"USER with EMAIL: i@y.com tries SIGNING UP","timestamp":"2016-12-09T01:10:50.854Z"}
+{"level":"info","message":"USER with EMAIL: i@y.com tries SIGNING UP","timestamp":"2016-12-09T01:12:50.910Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T01:18:50.557Z"}
+{"level":"info","message":"USER with EMAIL: i@y.com tries SIGNING IN","timestamp":"2016-12-09T01:19:06.537Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T01:19:47.936Z"}
+{"level":"info","message":"USER with EMAIL: i@y.com tries SIGNING IN","timestamp":"2016-12-09T01:19:55.624Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T01:22:05.973Z"}
+{"level":"info","message":"USER with EMAIL: i@y.com tries SIGNING IN","timestamp":"2016-12-09T01:22:14.526Z"}
+{"level":"info","message":"USER with EMAIL: i@y.com and USER ID: 22 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-09T01:22:14.649Z"}
+{"level":"info","message":"USER ID: 22 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T01:22:15.467Z"}
+{"level":"info","message":"USER ID: 22 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T01:22:15.579Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T07:45:15.441Z"}
+{"level":"info","message":"USER with EMAIL: x@y.com tries SIGNING IN","timestamp":"2016-12-09T07:45:31.126Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T08:49:04.861Z"}
+{"level":"info","message":"USER with EMAIL: h@gmail.com tries SIGNING UP","timestamp":"2016-12-09T08:49:19.381Z"}
+{"level":"info","message":"USER with EMAIL: h@gmail.com and USER ID: 24 SIGNED UP SUCCESSFULLY","timestamp":"2016-12-09T08:49:19.540Z"}
+{"level":"info","message":"USER ID: 24 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T08:49:20.411Z"}
+{"level":"info","message":"USER ID: 24 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T08:49:20.582Z"}
+{"level":"info","message":"USER ID: 24 VIEWED PROFILE PAGE","timestamp":"2016-12-09T08:49:24.592Z"}
+{"level":"info","message":"USER ID: 24 VIEWED PROFILE PAGE","timestamp":"2016-12-09T08:49:24.595Z"}
+{"level":"info","message":"USER ID: 24 tried UPDATING PRFOILE PAGE","timestamp":"2016-12-09T08:49:55.954Z"}
+{"level":"info","message":"USER with EMAIL: h@gmail.com and USER ID: 24 UPDATED PROFILE SUCCESSFULLY","timestamp":"2016-12-09T08:49:56.063Z"}
+{"level":"info","message":"USER ID: 24 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T08:49:58.777Z"}
+{"level":"info","message":"USER ID: 24 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T08:49:58.779Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T09:03:56.004Z"}
+{"level":"info","message":"USER with EMAIL: jj@kk.com tries SIGNING UP","timestamp":"2016-12-09T09:04:21.994Z"}
+{"level":"info","message":"USER with EMAIL: jj@kk.com and USER ID: 25 SIGNED UP SUCCESSFULLY","timestamp":"2016-12-09T09:04:22.887Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T09:05:01.642Z"}
+{"level":"info","message":"USER with EMAIL: a@h.com tries SIGNING UP","timestamp":"2016-12-09T09:05:34.609Z"}
+{"level":"info","message":"USER with EMAIL: a@h.com and USER ID: 26 SIGNED UP SUCCESSFULLY","timestamp":"2016-12-09T09:05:34.749Z"}
+{"level":"info","message":"USER ID: 26 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T09:05:35.285Z"}
+{"level":"info","message":"USER ID: 26 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T09:05:35.391Z"}
+{"level":"info","message":"USER ID: 26 VIEWED CART ITEMS","timestamp":"2016-12-09T09:05:41.206Z"}
+{"level":"info","message":"USER ID: 26 VIEWED CART ITEMS","timestamp":"2016-12-09T09:05:41.208Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T09:05:44.988Z"}
+{"level":"info","message":"USER with EMAIL: a@h.com tries SIGNING IN","timestamp":"2016-12-09T09:05:54.519Z"}
+{"level":"info","message":"USER with EMAIL: a@h.com and USER ID: 26 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-09T09:05:54.630Z"}
+{"level":"info","message":"USER ID: 26 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T09:05:55.110Z"}
+{"level":"info","message":"USER ID: 26 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T09:05:55.112Z"}
+{"level":"info","message":"USER ID: 26 VIEWED PROFILE PAGE","timestamp":"2016-12-09T09:05:57.825Z"}
+{"level":"info","message":"USER ID: 26 VIEWED PROFILE PAGE","timestamp":"2016-12-09T09:05:57.828Z"}
+{"level":"info","message":"USER ID: 26 VIEWED PROFILE PAGE","timestamp":"2016-12-09T09:09:32.410Z"}
+{"level":"info","message":"USER ID: 26 VIEWED PROFILE PAGE","timestamp":"2016-12-09T09:09:32.430Z"}
+{"level":"info","message":"USER ID: 26 VIEWED PROFILE PAGE","timestamp":"2016-12-09T09:12:39.690Z"}
+{"level":"info","message":"USER ID: 26 VIEWED PROFILE PAGE","timestamp":"2016-12-09T09:12:39.697Z"}
+{"level":"info","message":"USER ID: 26 tried UPDATING PRFOILE PAGE","timestamp":"2016-12-09T09:12:56.906Z"}
+{"level":"info","message":"USER with EMAIL: a@h.com and USER ID: 26 UPDATED PROFILE SUCCESSFULLY","timestamp":"2016-12-09T09:12:57.005Z"}
+{"level":"info","message":"USER ID: 26 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T09:12:58.722Z"}
+{"level":"info","message":"USER ID: 26 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T09:12:58.836Z"}
+{"level":"info","message":"USER ID: 26 VIEWED PROFILE PAGE","timestamp":"2016-12-09T09:13:00.229Z"}
+{"level":"info","message":"USER ID: 26 VIEWED PROFILE PAGE","timestamp":"2016-12-09T09:13:00.233Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T10:56:04.645Z"}
+{"level":"info","message":"USER with EMAIL: a@h.com tries SIGNING IN","timestamp":"2016-12-09T10:56:13.290Z"}
+{"level":"info","message":"USER with EMAIL: h@a.com tries SIGNING IN","timestamp":"2016-12-09T10:56:21.982Z"}
+{"level":"info","message":"USER with EMAIL: h@a.com tries SIGNING IN","timestamp":"2016-12-09T10:57:13.676Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T11:00:55.809Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T11:01:16.892Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com tries SIGNING UP","timestamp":"2016-12-09T11:01:44.517Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 SIGNED UP SUCCESSFULLY","timestamp":"2016-12-09T11:01:44.903Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:01:45.463Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:01:45.466Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T11:01:53.430Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com tries SIGNING IN","timestamp":"2016-12-09T11:02:01.678Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-09T11:02:01.762Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:02:02.271Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:02:02.274Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:07:00.782Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:07:00.791Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:09:12.460Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:09:12.476Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:21:59.827Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:21:59.990Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T11:22:28.039Z"}
+{"level":"info","message":"USER with EMAIL: merry@in.com tries SIGNING UP","timestamp":"2016-12-09T11:22:53.826Z"}
+{"level":"info","message":"USER with EMAIL: merry@in.com and USER ID: 28 SIGNED UP SUCCESSFULLY","timestamp":"2016-12-09T11:22:53.955Z"}
+{"level":"info","message":"USER ID: 28 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:22:54.463Z"}
+{"level":"info","message":"USER ID: 28 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:22:54.466Z"}
+{"level":"info","message":"USER ID: 28 VIEWED PROFILE PAGE","timestamp":"2016-12-09T11:22:58.582Z"}
+{"level":"info","message":"USER ID: 28 VIEWED PROFILE PAGE","timestamp":"2016-12-09T11:22:58.639Z"}
+{"level":"info","message":"USER ID: 28 tried UPDATING PRFOILE PAGE","timestamp":"2016-12-09T11:23:26.388Z"}
+{"level":"info","message":"USER with EMAIL: merry@in.com and USER ID: 28 UPDATED PROFILE SUCCESSFULLY","timestamp":"2016-12-09T11:23:26.491Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T11:24:19.237Z"}
+{"level":"info","message":"USER with EMAIL: merry@in.com tries SIGNING IN","timestamp":"2016-12-09T11:24:32.564Z"}
+{"level":"info","message":"USER with EMAIL: merry@in.com tries SIGNING IN","timestamp":"2016-12-09T11:24:33.043Z"}
+{"level":"info","message":"USER with EMAIL: merry@in.com tries SIGNING IN","timestamp":"2016-12-09T11:24:34.362Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com tries SIGNING IN","timestamp":"2016-12-09T11:25:23.284Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-09T11:25:23.376Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:25:23.859Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:25:23.860Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T11:25:26.848Z"}
+{"level":"info","message":"USER with EMAIL: merry@in.com tries SIGNING IN","timestamp":"2016-12-09T11:25:33.300Z"}
+{"level":"info","message":"USER with EMAIL: merry@in.com tries SIGNING IN","timestamp":"2016-12-09T11:25:42.423Z"}
+{"level":"info","message":"USER with EMAIL: merry@in.com tries SIGNING IN","timestamp":"2016-12-09T11:25:45.424Z"}
+{"level":"info","message":"USER with EMAIL: moi@in.com tries SIGNING UP","timestamp":"2016-12-09T11:26:16.613Z"}
+{"level":"info","message":"USER with EMAIL: moi@in.com and USER ID: 29 SIGNED UP SUCCESSFULLY","timestamp":"2016-12-09T11:26:16.726Z"}
+{"level":"info","message":"USER ID: 29 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:26:17.247Z"}
+{"level":"info","message":"USER ID: 29 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:26:17.254Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T11:26:18.824Z"}
+{"level":"info","message":"USER with EMAIL: moi@in.com tries SIGNING IN","timestamp":"2016-12-09T11:26:30.492Z"}
+{"level":"info","message":"USER with EMAIL: moi@in.com and USER ID: 29 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-09T11:26:30.579Z"}
+{"level":"info","message":"USER ID: 29 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:26:31.108Z"}
+{"level":"info","message":"USER ID: 29 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:26:31.112Z"}
+{"level":"info","message":"USER ID: 29 VIEWED PROFILE PAGE","timestamp":"2016-12-09T11:26:33.156Z"}
+{"level":"info","message":"USER ID: 29 VIEWED PROFILE PAGE","timestamp":"2016-12-09T11:26:33.159Z"}
+{"level":"info","message":"USER ID: 29 VIEWED PROFILE PAGE","timestamp":"2016-12-09T11:29:06.270Z"}
+{"level":"info","message":"USER ID: 29 VIEWED PROFILE PAGE","timestamp":"2016-12-09T11:29:06.273Z"}
+{"level":"info","message":"USER ID: 29 tried UPDATING PRFOILE PAGE","timestamp":"2016-12-09T11:29:15.394Z"}
+{"level":"info","message":"USER with EMAIL: moi@in.com and USER ID: 29 UPDATED PROFILE SUCCESSFULLY","timestamp":"2016-12-09T11:29:15.473Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T11:29:18.554Z"}
+{"level":"info","message":"USER with EMAIL: moi@in.com tries SIGNING IN","timestamp":"2016-12-09T11:29:27.115Z"}
+{"level":"info","message":"USER with EMAIL: moi@in.com tries SIGNING IN","timestamp":"2016-12-09T11:29:29.604Z"}
+{"level":"info","message":"USER with EMAIL: moi@in.com and USER ID: 29 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-09T11:29:29.629Z"}
+{"level":"info","message":"USER ID: 29 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:29:30.144Z"}
+{"level":"info","message":"USER ID: 29 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:29:30.148Z"}
+{"level":"info","message":"USER ID: 29 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:30:46.841Z"}
+{"level":"info","message":"USER ID: 29 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:30:46.843Z"}
+{"level":"info","message":"USER ID: 29 TRIES TO LIST PRODUCT for SALE of PRODUCT NAME: Jacket","timestamp":"2016-12-09T11:31:29.368Z"}
+{"level":"info","message":"USER ID: 29 SUCCESSFULLY LISTED PRODUCT for SALE of PRODUCT NAME: Jacket","timestamp":"2016-12-09T11:31:29.416Z"}
+{"level":"info","message":"USER ID: 29 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:31:34.126Z"}
+{"level":"info","message":"USER ID: 29 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:31:34.128Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T11:31:39.168Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com tries SIGNING IN","timestamp":"2016-12-09T11:31:50.048Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-09T11:31:50.155Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:31:50.661Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T11:31:50.663Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T13:25:56.245Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com tries SIGNING IN","timestamp":"2016-12-09T13:26:10.557Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-09T13:26:10.943Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T13:26:11.587Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T13:26:11.676Z"}
+{"level":"info","message":"USER ID: 27  ADDED ITEM with PRODUCT ID: 17 to the CART","timestamp":"2016-12-09T13:26:18.285Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-09T13:26:21.574Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-09T13:27:49.391Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-09T13:27:49.407Z"}
+{"level":"info","message":"USER ID: 27 tried UPDATING an ITEM  with PRODUCT ID: 17 from the CART","timestamp":"2016-12-09T13:27:54.059Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-09T13:27:57.525Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-09T13:27:57.527Z"}
+{"level":"info","message":"USER ID: 27 tried REMOVING an ITEM  with PRODUCT ID: 17 from the CART","timestamp":"2016-12-09T13:28:00.270Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-09T13:28:03.813Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-09T13:28:03.815Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-09T13:28:12.369Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-09T13:28:12.371Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T14:04:04.732Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com tries SIGNING IN","timestamp":"2016-12-09T14:04:12.758Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-09T14:04:13.122Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T14:04:13.682Z"}
+{"level":"info","message":"USER ID: 27  ADDED ITEM with PRODUCT ID: 17 to the CART","timestamp":"2016-12-09T14:04:20.737Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-09T14:04:22.931Z"}
+{"level":"info","message":"USER ID: 27 tried UPDATING an ITEM  with PRODUCT ID: 17 from the CART","timestamp":"2016-12-09T14:04:25.835Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-09T14:04:31.225Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-09T14:04:38.688Z"}
+{"level":"info","message":"USER ID: 27 MAKES A PAYMENT","timestamp":"2016-12-09T14:05:05.073Z"}
+{"level":"info","message":"USER ID: 27  PLACED an ORDER","timestamp":"2016-12-09T14:05:05.090Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T14:05:05.761Z"}
+{"level":"info","message":"USER ID: 27 VIEWED SALES HISTORY","timestamp":"2016-12-09T14:05:17.859Z"}
+{"level":"info","message":"USER ID: 27 VIEWED PURCHASE HISTORY","timestamp":"2016-12-09T14:05:18.964Z"}
+{"level":"info","message":"USER ID: 27 VIEWED PROFILE PAGE","timestamp":"2016-12-09T14:05:31.890Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T14:05:36.657Z"}
+{"level":"info","message":"USER ID: 27 TRIES TO LIST PRODUCT for SALE of PRODUCT NAME: Video Game","timestamp":"2016-12-09T14:06:19.931Z"}
+{"level":"info","message":"USER ID: 27 SUCCESSFULLY LISTED PRODUCT for SALE of PRODUCT NAME: Video Game","timestamp":"2016-12-09T14:06:19.950Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T14:06:22.492Z"}
+{"level":"info","message":"USER with EMAIL: moi@in.com tries SIGNING IN","timestamp":"2016-12-09T14:06:29.394Z"}
+{"level":"info","message":"USER with EMAIL: moi@in.com and USER ID: 29 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-09T14:06:29.443Z"}
+{"level":"info","message":"USER ID: 29 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T14:06:30.073Z"}
+{"level":"info","message":"USER ID: 29 TRIES TO LIST PRODUCT for SALE of PRODUCT NAME: Gold watch","timestamp":"2016-12-09T14:11:57.886Z"}
+{"level":"info","message":"USER ID: 29 SUCCESSFULLY LISTED PRODUCT for SALE of PRODUCT NAME: Gold watch","timestamp":"2016-12-09T14:11:57.967Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-09T14:12:01.497Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com tries SIGNING IN","timestamp":"2016-12-09T14:12:33.256Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-09T14:12:33.285Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-09T14:12:33.860Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-11T06:48:04.829Z"}
+{"level":"info","message":"USER with EMAIL: moi@in.com tries SIGNING IN","timestamp":"2016-12-11T06:48:19.927Z"}
+{"level":"info","message":"USER with EMAIL: moi@in.com and USER ID: 29 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-11T06:48:20.324Z"}
+{"level":"info","message":"USER ID: 29 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T06:48:21.320Z"}
+{"level":"info","message":"USER ID: 29 TRIES TO LIST PRODUCT for SALE of PRODUCT NAME: Orange Hat","timestamp":"2016-12-11T06:48:58.360Z"}
+{"level":"info","message":"USER ID: 29 SUCCESSFULLY LISTED PRODUCT for SALE of PRODUCT NAME: Orange Hat","timestamp":"2016-12-11T06:48:58.442Z"}
+{"level":"info","message":"USER ID: 29 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T06:49:01.993Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-11T06:49:06.808Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com tries SIGNING IN","timestamp":"2016-12-11T06:49:39.089Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-11T06:49:39.172Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T06:49:39.679Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-11T07:56:29.226Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com tries SIGNING IN","timestamp":"2016-12-11T07:56:36.055Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-11T07:56:36.209Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T07:56:37.175Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T07:57:59.477Z"}
+{"level":"info","message":"USER ID: 27 VIEWED PURCHASE HISTORY","timestamp":"2016-12-11T07:58:41.527Z"}
+{"level":"info","message":"USER ID: 27 VIEWED SALES HISTORY","timestamp":"2016-12-11T07:58:43.454Z"}
+{"level":"info","message":"USER ID: 27 VIEWED PURCHASE HISTORY","timestamp":"2016-12-11T07:58:45.547Z"}
+{"level":"info","message":"USER ID: 27 VIEWED PURCHASE HISTORY","timestamp":"2016-12-11T08:09:26.863Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-11T08:11:27.131Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com tries SIGNING IN","timestamp":"2016-12-11T08:11:33.363Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-11T08:11:34.385Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T08:11:34.903Z"}
+{"level":"info","message":"USER ID: 27 VIEWED PURCHASE HISTORY","timestamp":"2016-12-11T08:11:39.592Z"}
+{"level":"info","message":"USER ID: 27 VIEWED SALES HISTORY","timestamp":"2016-12-11T08:11:41.936Z"}
+{"level":"info","message":"USER ID: 27 VIEWED PURCHASE HISTORY","timestamp":"2016-12-11T08:11:50.558Z"}
+{"level":"info","message":"USER ID: 27 VIEWED PROFILE PAGE","timestamp":"2016-12-11T08:11:57.233Z"}
+{"level":"info","message":"USER ID: 27 tried UPDATING PRFOILE PAGE","timestamp":"2016-12-11T08:13:00.584Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 UPDATED PROFILE SUCCESSFULLY","timestamp":"2016-12-11T08:13:00.656Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T08:13:04.811Z"}
+{"level":"info","message":"USER ID: 27 VIEWED PROFILE PAGE","timestamp":"2016-12-11T08:13:06.131Z"}
+{"level":"info","message":"USER ID: 27 VIEWED PROFILE PAGE","timestamp":"2016-12-11T08:15:14.783Z"}
+{"level":"info","message":"USER ID: 27 tried UPDATING PRFOILE PAGE","timestamp":"2016-12-11T08:15:35.496Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 UPDATED PROFILE SUCCESSFULLY","timestamp":"2016-12-11T08:15:35.577Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-11T08:15:38.906Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com tries SIGNING IN","timestamp":"2016-12-11T08:15:52.193Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-11T08:15:52.295Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T08:15:52.867Z"}
+{"level":"info","message":"USER ID: 27 VIEWED SALES HISTORY","timestamp":"2016-12-11T08:16:04.148Z"}
+{"level":"info","message":"USER ID: 27 VIEWED PURCHASE HISTORY","timestamp":"2016-12-11T08:16:05.366Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-11T08:16:06.847Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T08:16:11.186Z"}
+{"level":"info","message":"USER ID: 27  ADDED ITEM with PRODUCT ID: 17 to the CART","timestamp":"2016-12-11T08:16:14.811Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-11T08:16:17.082Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T08:16:23.448Z"}
+{"level":"info","message":"USER ID: 27  ADDED ITEM with PRODUCT ID: 8 to the CART","timestamp":"2016-12-11T08:16:28.280Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-11T08:16:30.348Z"}
+{"level":"info","message":"USER ID: 27 tried REMOVING an ITEM  with PRODUCT ID: 17 from the CART","timestamp":"2016-12-11T08:16:33.083Z"}
+{"level":"info","message":"USER ID: 27 tried REMOVING an ITEM  with PRODUCT ID: 8 from the CART","timestamp":"2016-12-11T08:16:37.618Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-11T08:27:52.372Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T08:28:06.025Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-11T08:52:40.221Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com tries SIGNING IN","timestamp":"2016-12-11T08:52:50.408Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-11T08:52:50.590Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T08:52:51.366Z"}
+{"level":"info","message":"USER ID: 27  PLACED BID $233 FOR ITEM with PRODUCT ID: 20 to the CART","timestamp":"2016-12-11T08:52:58.664Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T09:05:31.013Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-11T09:27:07.670Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com tries SIGNING IN","timestamp":"2016-12-11T09:27:17.164Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-11T09:27:17.566Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T09:27:18.768Z"}
+{"level":"info","message":"USER ID: 27  PLACED BID $410 FOR ITEM with PRODUCT ID: 20 to the CART","timestamp":"2016-12-11T09:27:34.887Z"}
+{"level":"info","message":"SIGNIN PAGE is HIT","timestamp":"2016-12-11T09:57:09.356Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com tries SIGNING IN","timestamp":"2016-12-11T09:57:19.295Z"}
+{"level":"info","message":"USER with EMAIL: jerry@in.com and USER ID: 27 SIGNED IN SUCCESSFULLY","timestamp":"2016-12-11T09:57:19.689Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T09:57:20.711Z"}
+{"level":"info","message":"USER ID: 27  PLACED BID $500 FOR ITEM with PRODUCT ID: 20 to the CART","timestamp":"2016-12-11T09:57:28.774Z"}
+{"level":"info","message":"USER ID: 27 VIEWED BID STANDINGS","timestamp":"2016-12-11T09:57:32.923Z"}
+{"level":"info","message":"USER ID: 27 VIEWED BID STANDINGS","timestamp":"2016-12-11T10:06:21.541Z"}
+{"level":"info","message":"USER ID: 27 VIEWED BID STANDINGS","timestamp":"2016-12-11T10:07:19.575Z"}
+{"level":"info","message":"USER ID: 27 VIEWED BID STANDINGS","timestamp":"2016-12-11T10:08:02.453Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T10:08:04.587Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T10:08:11.697Z"}
+{"level":"info","message":"USER ID: 27 VIEWED PURCHASE HISTORY","timestamp":"2016-12-11T10:08:14.370Z"}
+{"level":"info","message":"USER ID: 27 VIEWED SALES HISTORY","timestamp":"2016-12-11T10:08:16.056Z"}
+{"level":"info","message":"USER ID: 27 VIEWED BID STANDINGS","timestamp":"2016-12-11T10:08:17.896Z"}
+{"level":"info","message":"USER ID: 27 VIEWED CART ITEMS","timestamp":"2016-12-11T10:08:19.283Z"}
+{"level":"info","message":"USER ID: 27 BROWSED PRODUCTS PAGE","timestamp":"2016-12-11T10:09:44.903Z"}
