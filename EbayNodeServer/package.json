@@ -12,6 +12,8 @@
     "client-sessions" : "*",
     "crypto": "*",
     "winston": "*",
-    "soap" : "*"
+    "soap" : "*",
+    "mocha" : "*",
+    "request" : "*"
   }
 }
